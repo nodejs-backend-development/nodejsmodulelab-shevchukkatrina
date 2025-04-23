@@ -17,9 +17,21 @@
   "devDependencies": {
     "eslint": "^8.34.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.27.5",
     "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejs-backend-development/nodejsmodulelab-shevchukkatrina.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodejs-backend-development/nodejsmodulelab-shevchukkatrina/issues"
+  },
+  "homepage": "https://github.com/nodejs-backend-development/nodejsmodulelab-shevchukkatrina#readme",
+  "dependencies": {
+    "split2": "^4.2.0",
+    "through2": "^4.0.2"
   }
 }
